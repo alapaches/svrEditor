@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>json/characters_id_svr2010.json</file>
+    </qresource>
+</RCC>

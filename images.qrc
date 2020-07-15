@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/">
+        <file>characters_pics/Batista.png</file>
+        <file>characters_pics/Big Show.png</file>
+        <file>characters_pics/Bob Orton.png</file>
+        <file>characters_pics/Brie Bella.png</file>
+        <file>characters_pics/Carlito.png</file>
+        <file>characters_pics/Chavo Guerrero.png</file>
+        <file>characters_pics/Chris Jericho.png</file>
+        <file>characters_pics/Christian.png</file>
+        <file>characters_pics/CM Punk.png</file>
+        <file>characters_pics/Cody Rhodes.png</file>
+        <file>characters_pics/Dolph Ziggler.png</file>
+        <file>characters_pics/Dusty Rhodes.png</file>
+        <file>characters_pics/Edge.png</file>
+        <file>characters_pics/Evan Bourne.png</file>
+        <file>characters_pics/Eve Torres.png</file>
+        <file>characters_pics/Ezekiel Jackson.png</file>
+        <file>characters_pics/Festus.png</file>
+        <file>characters_pics/Finlay.png</file>
+        <file>characters_pics/Gail Kim.png</file>
+        <file>characters_pics/Goldust.png</file>
+        <file>characters_pics/Jack Swagger.png</file>
+        <file>characters_pics/JBL.png</file>
+        <file>characters_pics/Jeff Hardy.png</file>
+        <file>characters_pics/Jesse.png</file>
+        <file>characters_pics/John Cena.png</file>
+        <file>characters_pics/John Morrison.png</file>
+        <file>characters_pics/JTG.png</file>
+        <file>characters_pics/Kane.png</file>
+        <file>characters_pics/Kelly Kelly.png</file>
+        <file>characters_pics/Kofi Kingston.png</file>
+        <file>characters_pics/Maria.png</file>
+        <file>characters_pics/Mark Henry.png</file>
+        <file>characters_pics/Maryse.png</file>
+        <file>characters_pics/Matt Hardy.png</file>
+        <file>characters_pics/Melina.png</file>
+        <file>characters_pics/Michelle McCool.png</file>
+        <file>characters_pics/Mickie James.png</file>
+        <file>characters_pics/Mike Knox.png</file>
+        <file>characters_pics/Million Dollar Man.png</file>
+        <file>characters_pics/Mr Kennedy.png</file>
+        <file>characters_pics/Mr McMahon.png</file>
+        <file>characters_pics/MVP.png</file>
+        <file>characters_pics/Natalya.png</file>
+        <file>characters_pics/Nikki Bella.png</file>
+        <file>characters_pics/Primo.png</file>
+        <file>characters_pics/R Truth.png</file>
+        <file>characters_pics/Randy Orton.png</file>
+        <file>characters_pics/Rey Mysterio.png</file>
+        <file>characters_pics/Santino Marella.png</file>
+        <file>characters_pics/Shad Gaspard.png</file>
+        <file>characters_pics/Shawn Michaels.png</file>
+        <file>characters_pics/Shelton Benjamin.png</file>
+        <file>characters_pics/Stone Cold.png</file>
+        <file>characters_pics/Ted Dibiase.png</file>
+        <file>characters_pics/The Brian Kendrick.png</file>
+        <file>characters_pics/The Great Khali.png</file>
+        <file>characters_pics/The Miz.png</file>
+        <file>characters_pics/The Rock.png</file>
+        <file>characters_pics/Tommy Dreamer.png</file>
+        <file>characters_pics/Triple H.png</file>
+        <file>characters_pics/Trish Stratus.png</file>
+        <file>characters_pics/Umaga.png</file>
+        <file>characters_pics/Undertaker.png</file>
+        <file>characters_pics/Vladimir Kozlov.png</file>
+        <file>characters_pics/William Regal.png</file>
+    </qresource>
+</RCC>

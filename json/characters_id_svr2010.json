@@ -1,0 +1,926 @@
+{
+    "The Rock": {
+        "id": "100",
+        "brand": "legends",
+        "attributes": {
+            "grapple": "100",
+            "strike": "110",
+            "submission": "120",
+            "durability": "130",
+            "technique": "140",
+            "speed": "150",
+            "charisma": "160",
+            "hardcore": "170"
+        }
+    },
+    "Stone Cold": {
+        "id": "101",
+        "brand": "dlc",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Triple H": {
+        "id": "102",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Undertaker": {
+        "id": "103",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Chris Jericho": {
+        "id": "104",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Kane": {
+        "id": "107",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Edge": {
+        "id": "110",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Jeff Hardy": {
+        "id": "111",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Matt Hardy": {
+        "id": "112",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "JBL": {
+        "id": "114",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Mr McMahon": {
+        "id": "115",
+        "brand": "legends",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "William Regal": {
+        "id": "117",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Carlito": {
+        "id": "118",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Rey Mysterio": {
+        "id": "123",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Big Show": {
+        "id": "125",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Maria": {
+        "id": "127",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "CM Punk": {
+        "id": "131",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "MVP": {
+        "id": "135",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Million Dollar Man": {
+        "id": "136",
+        "brand": "legends",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Chavo Guerrero": {
+        "id": "137",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "John Cena": {
+        "id": "139",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Mickie James": {
+        "id": "143",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Shawn Michaels": {
+        "id": "145",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Umaga": {
+        "id": "157",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Finlay": {
+        "id": "158",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Batista": {
+        "id": "160",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Randy Orton": {
+        "id": "161",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Mr Kennedy": {
+        "id": "162",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Kelly Kelly": {
+        "id": "164",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Shad Gaspard": {
+        "id": "165",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "The Great Khali": {
+        "id": "166",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Tommy Dreamer": {
+        "id": "168",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Melina": {
+        "id": "174",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "John Morrison": {
+        "id": "175",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Kofi Kingston": {
+        "id": "176",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "JTG": {
+        "id": "178",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Mark Henry": {
+        "id": "179",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Michelle McCool": {
+        "id": "182",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Santino Marella": {
+        "id": "201",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Cody Rhodes": {
+        "id": "205",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "The Brian Kendrick": {
+        "id": "207",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Shelton Benjamin": {
+        "id": "208",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Dusty Rhodes": {
+        "id": "209",
+        "brand": "legends",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Jesse": {
+        "id": "213",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Festus": {
+        "id": "214",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "The Miz": {
+        "id": "218",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Beth Phoenix": {
+        "id": "224",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Ted Dibiase": {
+        "id": "261",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Vladimir Kozlov": {
+        "id": "262",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Mike Knox": {
+        "id": "263",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Evan Bourne": {
+        "id": "265",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Jack Swagger": {
+        "id": "267",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Ezekiel Jackson": {
+        "id": "268",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Primo": {
+        "id": "271",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "R Truth": {
+        "id": "272",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Dolph Ziggler": {
+        "id": "275",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Christian": {
+        "id": "276",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Golddust": {
+        "id": "277",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Natalya": {
+        "id": "290",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Maryse": {
+        "id": "291",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Eve Torres": {
+        "id": "292",
+        "brand": "smackdown",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Gail Kim": {
+        "id": "293",
+        "brand": "raw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Brie Bella": {
+        "id": "294",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Nikki Bella": {
+        "id": "295",
+        "brand": "ecw",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Trish Stratus": {
+        "id": "302",
+        "brand": "legends",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    },
+    "Bob Orton": {
+        "id": "303",
+        "brand": "legends",
+        "attributes": {
+            "grapple": "",
+            "strike": "",
+            "submission": "",
+            "durability": "",
+            "technique": "",
+            "speed": "",
+            "charisma": "",
+            "hardcore": ""
+        }
+    }
+}
